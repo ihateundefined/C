@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\250217">
+      <UniqueIdentifier>{264dac79-0a49-497e-84e4-a4c66b78ffd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250218">
+      <UniqueIdentifier>{c6d78f82-e7c8-4102-ac03-cc42337dc39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250219">
+      <UniqueIdentifier>{c6374837-2dd5-4a99-b52e-2a9a24555964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250220">
+      <UniqueIdentifier>{169f3b79-9e59-4ec9-811e-8f96e6f26141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250221">
+      <UniqueIdentifier>{e200883a-33a1-4c88-9e68-548d9910e23e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250224">
+      <UniqueIdentifier>{dab607ac-0015-4367-9b2c-b4353c4b87dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250225">
+      <UniqueIdentifier>{c34b5cab-400e-4913-bd1a-cb03057c651b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250226">
+      <UniqueIdentifier>{207eacce-3fa1-4992-b2da-260c9c83719d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250227">
+      <UniqueIdentifier>{3ad5172e-93fb-4a3f-952d-9cf25f5cc892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250228">
+      <UniqueIdentifier>{17018118-a92e-4946-ada5-54c6662fa9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\250304">
+      <UniqueIdentifier>{7021d9a0-2cc2-4d6b-af9e-6c6fea43eb27}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="250217_task1.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task2.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task3.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task4.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task5.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task6.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task7.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task8.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_task9.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_변수와자료형.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_소스.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250217_연산자.cpp">
+      <Filter>소스 파일\250217</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task1.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task2.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task3.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task4.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task5.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task6.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task7.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task8.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task9.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task10.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task11.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task12.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task13.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task14.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task15.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task16.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_task17.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_분기문.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250218_반복문.cpp">
+      <Filter>소스 파일\250218</Filter>
+    </ClCompile>
+    <ClCompile Include="250219_반복문.cpp">
+      <Filter>소스 파일\250219</Filter>
+    </ClCompile>
+    <ClCompile Include="250219_task1.cpp">
+      <Filter>소스 파일\250219</Filter>
+    </ClCompile>
+    <ClCompile Include="250219_함수1.cpp">
+      <Filter>소스 파일\250219</Filter>
+    </ClCompile>
+    <ClCompile Include="250219_task2.cpp">
+      <Filter>소스 파일\250219</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task1.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task2.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task3.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task4.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task5.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task6.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task7.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task8.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_task9.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_배열.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250220_함수2.cpp">
+      <Filter>소스 파일\250220</Filter>
+    </ClCompile>
+    <ClCompile Include="250221_배열2.cpp">
+      <Filter>소스 파일\250221</Filter>
+    </ClCompile>
+    <ClCompile Include="250221_포인터.cpp">
+      <Filter>소스 파일\250221</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_task1.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_포인터2.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_task2.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_task3.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_task5.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250224_task4.cpp">
+      <Filter>소스 파일\250224</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_task2.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_포인터와배열.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_함수와포인터.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_함수와포인터2.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_task1.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_task4.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_task3.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250225_task5.cpp">
+      <Filter>소스 파일\250225</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_task1.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_task2.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_task3.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_task4.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_task5.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250226_여러가지포인터.cpp">
+      <Filter>소스 파일\250226</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_공용체.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_구조체.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_열거형.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_task1.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+    <ClCompile Include="250228_동적메모리할당.cpp">
+      <Filter>소스 파일\250228</Filter>
+    </ClCompile>
+    <ClCompile Include="250228_재할당.cpp">
+      <Filter>소스 파일\250228</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_task2.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+    <ClCompile Include="250304_divide.cpp">
+      <Filter>소스 파일\250304</Filter>
+    </ClCompile>
+    <ClCompile Include="250304_plus.cpp">
+      <Filter>소스 파일\250304</Filter>
+    </ClCompile>
+    <ClCompile Include="250304_조건부컴파일.cpp">
+      <Filter>소스 파일\250304</Filter>
+    </ClCompile>
+    <ClCompile Include="250227_task3.cpp">
+      <Filter>소스 파일\250227</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Project1.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
